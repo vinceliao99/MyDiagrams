@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T02:44:23.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="hK7tq9GsJUH6F6jnL-D1" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-08T02:45:34.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="6JPvKdwnkrePdgk0rppe" version="20.0.4" type="github" pages="4">
   <diagram id="Zey3VQpnDwlAwN-0-qrT" name="分階段上線">
     <mxGraphModel dx="2360" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -363,11 +363,6 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0156MINf_T01JMAZHBBm-110" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="370" y="880" width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0156MINf_T01JMAZHBBm-111" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="430" y="880" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
@@ -411,7 +406,7 @@
             <mxPoint x="680" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-SdIQJx3qXtag8I6jin-1" value="&lt;h1&gt;Potential Risks&lt;/h1&gt;&lt;p&gt;1. Need to maintain the mapping relationship manually. And maintain two routes. Have to consider complex Intel design.&lt;/p&gt;&lt;p&gt;2. All KF steps must exists&amp;nbsp;in MES&lt;/p&gt;&lt;p&gt;3. Multi-layer of data in MES might not be supported in KF (Lot, Panel, Piece). And actions like split, merge. Needs to customize and map data format.&amp;nbsp;&lt;/p&gt;&lt;p&gt;4. Map intel could be difficult, many custom logic.&lt;/p&gt;&lt;p&gt;5. Not all satellite software just read from KF, some might right back. (MIVS, RMA Control)&amp;nbsp;&lt;/p&gt;&lt;p&gt;6. CR have to change both sites, hard to trace bugs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H-SdIQJx3qXtag8I6jin-1" value="&lt;h1&gt;Potential Risks&lt;/h1&gt;&lt;p&gt;1. Need to maintain the mapping relationship manually. And maintain two routes. Have to consider complex Intel design.&lt;/p&gt;&lt;p&gt;2. All KF steps must exists&amp;nbsp;in MES&lt;/p&gt;&lt;p&gt;3. Multi-layer of data in MES might not be supported in KF (Lot, Panel, Piece). And actions like split, merge. Needs to customize and map data format.&amp;nbsp;&lt;/p&gt;&lt;p&gt;4. Map intel could be difficult, many custom logic.&lt;/p&gt;&lt;p&gt;5. Not all satellite software just read from KF, some might right back. (MIVS, RMA Control.....)&amp;nbsp;&lt;/p&gt;&lt;p&gt;6. CR have to change both sites, hard to trace bugs. Requires lots of effort to maintain.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="640" width="960" height="240" as="geometry" />
         </mxCell>
       </root>
