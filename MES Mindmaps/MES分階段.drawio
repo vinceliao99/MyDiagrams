@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T01:27:04.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="41lt7HG26June2EJoaCO" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-08T01:32:06.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="2pkxDCyih8osxMyDyxW6" version="20.0.4" type="github" pages="3">
   <diagram id="Zey3VQpnDwlAwN-0-qrT" name="分階段上線">
     <mxGraphModel dx="2360" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -456,7 +456,7 @@
             <mxPoint x="680" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-SdIQJx3qXtag8I6jin-1" value="&lt;h1&gt;Potential Problems&lt;/h1&gt;&lt;p&gt;1. All KF steps must exists&amp;nbsp;in MES&lt;/p&gt;&lt;p&gt;2. Multi-layer of data in MES might not be supported in KF (Lot, Panel, Piece). And actions like split, merge&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H-SdIQJx3qXtag8I6jin-1" value="&lt;h1&gt;Potential Risks&lt;/h1&gt;&lt;p&gt;1. Need to maintain the mapping relationship manually. And maintain two routes.&lt;/p&gt;&lt;p&gt;2. All KF steps must exists&amp;nbsp;in MES&lt;/p&gt;&lt;p&gt;3. Multi-layer of data in MES might not be supported in KF (Lot, Panel, Piece). And actions like split, merge&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="710" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
