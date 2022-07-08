@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T02:58:18.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="CKLScFmHPcUgWzu8jZ-F" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-08T03:01:48.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="B5uE1u9_GwNq8-Q-ah1H" version="20.0.4" type="github" pages="4">
   <diagram id="Zey3VQpnDwlAwN-0-qrT" name="分階段上線">
     <mxGraphModel dx="2360" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -422,7 +422,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aQjMg_3HEvCkaWGP1Rf7-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;System A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzio-bGQ6x65LlK1t6wz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;startArrow=classic;startFill=1;" edge="1" parent="1" source="pzio-bGQ6x65LlK1t6wz-1" target="ZwdAmmISUkEVg4xNhnZe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzio-bGQ6x65LlK1t6wz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;startArrow=classic;startFill=1;" edge="1" parent="1" source="pzio-bGQ6x65LlK1t6wz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzio-bGQ6x65LlK1t6wz-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;System B&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pzio-bGQ6x65LlK1t6wz-4" value="Channel SSD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="225" y="150" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
