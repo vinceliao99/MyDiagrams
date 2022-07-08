@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T01:35:34.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="7vrc2-ksWWUTOpX0sm3D" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-08T02:08:52.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="dIufZjvt69CCPIXS-C4p" version="20.0.4" type="github" pages="3">
   <diagram id="Zey3VQpnDwlAwN-0-qrT" name="分階段上線">
     <mxGraphModel dx="2360" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -312,17 +312,17 @@
         <mxCell id="0156MINf_T01JMAZHBBm-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=25;" parent="0156MINf_T01JMAZHBBm-55" vertex="1">
           <mxGeometry y="240" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xL8jXcDZHIea94puSZiq-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" vertex="1" parent="0156MINf_T01JMAZHBBm-86">
+        <mxCell id="xL8jXcDZHIea94puSZiq-12" value="01" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" vertex="1" parent="0156MINf_T01JMAZHBBm-86">
           <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0156MINf_T01JMAZHBBm-107" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" parent="0156MINf_T01JMAZHBBm-86" vertex="1">
+        <mxCell id="0156MINf_T01JMAZHBBm-107" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" parent="0156MINf_T01JMAZHBBm-86" vertex="1">
           <mxGeometry x="130" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0156MINf_T01JMAZHBBm-87" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" parent="0156MINf_T01JMAZHBBm-86" vertex="1">
+        <mxCell id="0156MINf_T01JMAZHBBm-87" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=25;" parent="0156MINf_T01JMAZHBBm-86" vertex="1">
           <mxGeometry x="260" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -412,7 +412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H-SdIQJx3qXtag8I6jin-1" value="&lt;h1&gt;Potential Risks&lt;/h1&gt;&lt;p&gt;1. Need to maintain the mapping relationship manually. And maintain two routes.&lt;/p&gt;&lt;p&gt;2. All KF steps must exists&amp;nbsp;in MES&lt;/p&gt;&lt;p&gt;3. Multi-layer of data in MES might not be supported in KF (Lot, Panel, Piece). And actions like split, merge&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="710" width="480" height="120" as="geometry" />
+          <mxGeometry y="710" width="480" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
