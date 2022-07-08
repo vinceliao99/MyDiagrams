@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T03:26:01.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="hqQBlZKrjtpedggiGR8t" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-08T03:27:16.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.74" etag="SZbmJnOXUGRZELlPnXQ2" version="20.0.4" type="github" pages="4">
   <diagram id="Zey3VQpnDwlAwN-0-qrT" name="分階段上線">
     <mxGraphModel dx="2360" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -479,6 +479,17 @@
         </mxCell>
         <mxCell id="Lyf34tPycXWLWLSNOiOr-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Report A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyf34tPycXWLWLSNOiOr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="1" source="Lyf34tPycXWLWLSNOiOr-4" target="ZwdAmmISUkEVg4xNhnZe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyf34tPycXWLWLSNOiOr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="1" source="Lyf34tPycXWLWLSNOiOr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyf34tPycXWLWLSNOiOr-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Report B&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
