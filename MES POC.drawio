@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T02:50:47.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="Qvpsu9bXrcvEPrkn9_4z" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-09T02:59:01.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="swWEyoqHuWhDErN-xbV9" version="20.2.3" type="github" pages="2">
   <diagram id="6duA1uSMdmndYWGt7eCN" name="Route &amp; Lines">
     <mxGraphModel dx="2302" dy="1294" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" background="#000000" math="0" shadow="0">
       <root>
@@ -304,6 +304,34 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="481" y="546" as="sourcePoint" />
             <mxPoint x="479" y="602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-9" value="Work Order A" style="swimlane;fontSize=16;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="966" y="226" width="425" height="296" as="geometry">
+            <mxRectangle x="150" y="236" width="138" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-7" value="Quantity : 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#000000;" vertex="1" parent="PJ1qup9xhohrxMHTWOED-9">
+          <mxGeometry x="109" y="129" width="222" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-12" value="SMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="1152" y="186" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-13" value="Work Order A" style="swimlane;fontSize=16;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="966" y="638" width="425" height="296" as="geometry">
+            <mxRectangle x="150" y="236" width="138" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-30" value="Quantity : 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#000000;" vertex="1" parent="PJ1qup9xhohrxMHTWOED-13">
+          <mxGeometry x="113" y="158" width="222" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-28" value="Depanel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="1148.5" y="596" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1qup9xhohrxMHTWOED-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=23;strokeWidth=3;entryX=0.565;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wUC67vCHg1ev2IUdutJq-1" target="PJ1qup9xhohrxMHTWOED-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1182.5" y="540" as="sourcePoint" />
+            <mxPoint x="1180.5" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
