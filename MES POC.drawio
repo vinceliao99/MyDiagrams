@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T06:09:14.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="i32LUM83HBYfQawwhtp0" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-22T09:19:27.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 OPR/89.0.4447.83" etag="2mqXgERvtxxqSryo8YLp" version="20.2.3" type="github" pages="3">
   <diagram id="6duA1uSMdmndYWGt7eCN" name="Route &amp; Lines">
     <mxGraphModel dx="4040" dy="2345" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" background="#000000" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d906zBtjWqWZmlAAoWmq" name="WO LOT PANEL PIECE">
-    <mxGraphModel dx="1796" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
         <mxCell id="wUC67vCHg1ev2IUdutJq-0" />
         <mxCell id="wUC67vCHg1ev2IUdutJq-1" parent="wUC67vCHg1ev2IUdutJq-0" />
@@ -333,6 +333,21 @@
         </mxCell>
         <mxCell id="fQ2pBeVhD6s8FEGxVIGg-1" value="Quantity : 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#000000;" vertex="1" parent="fQ2pBeVhD6s8FEGxVIGg-0">
           <mxGeometry x="109" y="129" width="222" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ2pBeVhD6s8FEGxVIGg-2" value="Lot 1" style="swimlane;fontSize=18;startSize=32;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="156" y="1244" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ2pBeVhD6s8FEGxVIGg-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Panel 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="fQ2pBeVhD6s8FEGxVIGg-2">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ2pBeVhD6s8FEGxVIGg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Panel 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="fQ2pBeVhD6s8FEGxVIGg-2">
+          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ2pBeVhD6s8FEGxVIGg-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Panel 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="fQ2pBeVhD6s8FEGxVIGg-2">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQ2pBeVhD6s8FEGxVIGg-13" value="SMT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="wUC67vCHg1ev2IUdutJq-1">
+          <mxGeometry x="276" y="1188" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
