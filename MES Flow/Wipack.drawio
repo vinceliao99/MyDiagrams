@@ -1,0 +1,63 @@
+<mxfile host="Electron" modified="2023-04-19T05:29:30.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="FQQ89y8jpQIEh5od3i3I" version="21.1.2" type="device">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1434" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Wipack Flow&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=left;" parent="1" vertex="1">
+          <mxGeometry x="20" y="41" width="1031" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="PMC" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="211" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-9" value="Generate&lt;br style=&quot;font-size: 12px;&quot;&gt;demand&amp;nbsp; in PRS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="50" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="Packing_OP" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="211" y="20" width="520" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="77e6c97f196da883-4" source="QPGYUxcQ977ERs3qzV96-1" target="YMRek-yd6UM8_7ZhADrd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-1" value="create packing work order by ship order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="182" y="63.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="77e6c97f196da883-4" source="QPGYUxcQ977ERs3qzV96-14" target="QPGYUxcQ977ERs3qzV96-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="77e6c97f196da883-4" source="QPGYUxcQ977ERs3qzV96-14" target="QPGYUxcQ977ERs3qzV96-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-14" value="available 99 work order" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="20" y="158.5" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="77e6c97f196da883-4" source="QPGYUxcQ977ERs3qzV96-16" target="YMRek-yd6UM8_7ZhADrd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-16" value="create packing work order by inventory" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="182" y="230.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-19" value="Packing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="350" y="63.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-4" value="WH" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="731" y="20" width="300" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-28" value="Update WH inventory in WiPack by PDR ID" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="QPGYUxcQ977ERs3qzV96-4" vertex="1">
+          <mxGeometry x="100" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-25" value="create work order in E1 by interface?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="QPGYUxcQ977ERs3qzV96-4">
+          <mxGeometry x="160" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPGYUxcQ977ERs3qzV96-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="77e6c97f196da883-1" target="QPGYUxcQ977ERs3qzV96-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMRek-yd6UM8_7ZhADrd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="77e6c97f196da883-1" source="YMRek-yd6UM8_7ZhADrd-19" target="QPGYUxcQ977ERs3qzV96-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
