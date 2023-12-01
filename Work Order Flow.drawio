@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T06:23:53.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="opwCDPFYC-l7hOYQ_3sn" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T07:28:51.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="wnGCg_vzut-uk6WFaBFa" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="WO Flow">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,11 +22,41 @@
         <mxCell id="tXJf2z_1beXB19hdbaHJ-9" value="EWO Approve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXJf2z_1beXB19hdbaHJ-10" value="MES Release &amp;amp; &lt;br&gt;Start WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-10" value="MES Release &amp;amp; &lt;br&gt;Start WO&lt;br&gt;(Expand Panel Material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXJf2z_1beXB19hdbaHJ-11" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-12" value="GL Split WO to Lots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-13" value="Dispatch Lot to Line&lt;br&gt;(According to PM Scheduling)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-14" value="GPS TC Verify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-15" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-16" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-17" value="Laser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-18" value="Printer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1800" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-19" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1960" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-21" value="P&amp;amp;P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXJf2z_1beXB19hdbaHJ-22" value="Reflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2280" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
