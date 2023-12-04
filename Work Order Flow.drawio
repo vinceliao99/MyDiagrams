@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T03:19:54.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="rDg4vKucO5IA6SSYH8R6" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-04T03:27:10.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ewaaKppJambRcdf5WMXW" version="22.1.5" type="github" pages="4">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2198" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -229,10 +229,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iaL6RcCxSwWeX1bMBB6b" name="6. GPS TC Verify">
-    <mxGraphModel dx="1798" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JE7L3iNSK9wxi28AZLIl-1" value="6. GPS TC Verify" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="-480" width="940" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JE7L3iNSK9wxi28AZLIl-2" value="MES" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=13;" vertex="1" parent="JE7L3iNSK9wxi28AZLIl-1">
+          <mxGeometry y="20" width="940" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JE7L3iNSK9wxi28AZLIl-3" value="EWO" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=13;" vertex="1" parent="JE7L3iNSK9wxi28AZLIl-1">
+          <mxGeometry y="210" width="940" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
