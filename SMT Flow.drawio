@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T08:55:07.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="MOJV6cEAf4iyO_yt4TkD" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-04T09:00:05.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="t0WCl74lPF1tFwqPfiPJ" version="22.1.5" type="github" pages="5">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
         <mxCell id="-r-OsDqMfNIxZq5W5FvP-7" value="14.1&lt;br style=&quot;font-size: 13px;&quot;&gt;Manual Attach&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazines in&lt;br style=&quot;font-size: 13px;&quot;&gt;the beginning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
           <mxGeometry x="80" y="60" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-r-OsDqMfNIxZq5W5FvP-14" value="14.6&lt;br style=&quot;font-size: 13px;&quot;&gt;Manul Judge&lt;br style=&quot;font-size: 13px;&quot;&gt;Good?" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
+        <mxCell id="-r-OsDqMfNIxZq5W5FvP-14" value="14.6&lt;br style=&quot;font-size: 13px;&quot;&gt;Manual Judge&lt;br style=&quot;font-size: 13px;&quot;&gt;Good?" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
           <mxGeometry x="680" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K5HgcPyVkRXFlCsnjira-10" value="14.3&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panel to&lt;br style=&quot;font-size: 13px;&quot;&gt;Defect to be judged&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
