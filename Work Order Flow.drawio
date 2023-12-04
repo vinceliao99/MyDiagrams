@@ -1,83 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T01:42:40.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="yF7KDPN8AWlgNRSYSDwE" version="22.1.5" type="github" pages="2">
-  <diagram name="SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
+<mxfile host="app.diagrams.net" modified="2023-12-04T02:12:41.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="JT17MzW7N1mb1qk1YsE8" version="22.1.5" type="github" pages="3">
+  <diagram name="LV0 SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-0" />
         <mxCell id="lsrAI2a4YngaBVKj8FtU-1" parent="lsrAI2a4YngaBVKj8FtU-0" />
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-2" value="E1 Issue WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="lsrAI2a4YngaBVKj8FtU-5" value="1&lt;br&gt;MES Create WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
+          <mxGeometry x="20" y="180" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-3" value="Send to MES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-4" value="Send to EWO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-5" value="MES Create WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-6" value="EWO Create WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-7" value="EWO Approve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-8" value="MES Release &amp;amp; &lt;br&gt;Start WO&lt;br&gt;(Expand Panel Material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="lsrAI2a4YngaBVKj8FtU-8" value="&lt;br&gt;2&lt;br&gt;MES Release &amp;amp; &lt;br&gt;Start WO&lt;br&gt;(Expand Panel Material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
+          <mxGeometry x="180" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-9" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="60" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-10" value="GL Split WO to Lots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="840" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="lsrAI2a4YngaBVKj8FtU-10" value="3&lt;br&gt;GL Split WO to Lots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
+          <mxGeometry x="340" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-11" value="Dispatch Lot to Line&lt;br&gt;(According to PM Scheduling)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-12" value="GPS TC Verify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1160" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-13" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1320" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-14" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1480" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-15" value="Laser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-16" value="Printer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1800" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-17" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="1960" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-18" value="P&amp;amp;P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="2120" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-19" value="Reflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="2280" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-20" value="WO Flow" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="40" y="447" width="480" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-21" value="OP" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-20">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-22" value="GL" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-20">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-23" value="MES System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-20">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-24" value="GPS System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="40" y="827" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-25" value="EWO System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="40" y="947" width="480" height="120" as="geometry" />
+          <mxGeometry x="1780" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-26" value="AOI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lsrAI2a4YngaBVKj8FtU-1">
-          <mxGeometry x="2440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="180" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="1. MES Create WO" id="Gj6-yKRhMGPdUc_MEvMs">
+    <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-0" />
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-1" parent="ojpdi4dLbATOlmT9TZIS-0" />
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-2" value="1.1&lt;br&gt;E1 Issue WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="44.5" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-3" value="1.2&lt;br&gt;Send to MES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="204.5" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-4" value="Send to EWO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="204.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-5" value="MES Create WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="364.5" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-6" value="EWO Create WO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="364.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-7" value="EWO Approve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="524.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-8" value="MES Release &amp;amp; &lt;br&gt;Start WO&lt;br&gt;(Expand Panel Material)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="684.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-9" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="64.5" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-10" value="GL Split WO to Lots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="844.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-11" value="Dispatch Lot to Line&lt;br&gt;(According to PM Scheduling)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1004.5" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-12" value="GPS TC Verify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1160" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-13" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1320" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-14" value="Panel Track in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1480" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-15" value="Laser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1640" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-16" value="Printer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1800" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-17" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="1960" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-18" value="P&amp;amp;P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="2120" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-19" value="Reflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="2280" y="240" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-20" value="WO Flow" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="30" y="860" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-21" value="OP" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-20">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-22" value="GL" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-20">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-23" value="MES System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-20">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-24" value="GPS System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="30" y="1240" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-25" value="EWO System" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="30" y="1360" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ojpdi4dLbATOlmT9TZIS-26" value="AOI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ojpdi4dLbATOlmT9TZIS-1">
+          <mxGeometry x="2440" y="240" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
