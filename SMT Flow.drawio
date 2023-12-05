@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T02:24:36.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="mtl7D9iplenGXU6Js6xY" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-05T02:40:47.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="QzkKNCDvNGjZ19fkKsOP" version="22.1.5" type="github" pages="5">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -491,10 +491,10 @@
         <mxCell id="DdEMvUbgFAGjMsZrBji2-29" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdEMvUbgFAGjMsZrBji2-57" value="14.8&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panels to Judged Good&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-57" value="14.8&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panels to Accept&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="960" y="1350" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DdEMvUbgFAGjMsZrBji2-58" value="14.9&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panel to&lt;br style=&quot;font-size: 13px;&quot;&gt;Judged Defect&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-58" value="14.9&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panel to&lt;br style=&quot;font-size: 13px;&quot;&gt;Reject&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="960" y="1550" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DdEMvUbgFAGjMsZrBji2-59" value="" style="group" vertex="1" connectable="0" parent="1">
