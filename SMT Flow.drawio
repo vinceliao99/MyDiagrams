@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T10:11:02.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="PaFwOGlZigQbWctVd4v6" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-05T01:38:36.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="SdUIardIWp_rLJr-g7oi" version="22.1.5" type="github" pages="5">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -344,8 +344,14 @@
         <mxCell id="-r-OsDqMfNIxZq5W5FvP-14" value="14.6&lt;br style=&quot;font-size: 13px;&quot;&gt;Manual Judge&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
           <mxGeometry x="680" y="60" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-r-OsDqMfNIxZq5W5FvP-2" source="DdEMvUbgFAGjMsZrBji2-53" target="DdEMvUbgFAGjMsZrBji2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DdEMvUbgFAGjMsZrBji2-53" value="14.8&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panels to Judged Good&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="-r-OsDqMfNIxZq5W5FvP-2">
           <mxGeometry x="880" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-r-OsDqMfNIxZq5W5FvP-2" source="K5HgcPyVkRXFlCsnjira-10" target="DdEMvUbgFAGjMsZrBji2-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K5HgcPyVkRXFlCsnjira-10" value="14.9&lt;br style=&quot;font-size: 13px;&quot;&gt;Auto add panel to&lt;br style=&quot;font-size: 13px;&quot;&gt;Judged Defect&lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-2" vertex="1">
           <mxGeometry x="880" y="260" width="120" height="120" as="geometry" />
@@ -401,8 +407,14 @@
         <mxCell id="K5HgcPyVkRXFlCsnjira-4" value="14.7&lt;br style=&quot;font-size: 13px;&quot;&gt;Fill Good &lt;br style=&quot;font-size: 13px;&quot;&gt;Magazine till full" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-r-OsDqMfNIxZq5W5FvP-3" vertex="1">
           <mxGeometry x="680" y="280" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-r-OsDqMfNIxZq5W5FvP-3" source="DdEMvUbgFAGjMsZrBji2-64" target="DdEMvUbgFAGjMsZrBji2-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DdEMvUbgFAGjMsZrBji2-64" value="14.10&lt;br style=&quot;font-size: 13px;&quot;&gt;Undock Good&lt;br&gt;Magazine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="-r-OsDqMfNIxZq5W5FvP-3">
           <mxGeometry x="880" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-93" value="14.13&lt;br style=&quot;font-size: 13px;&quot;&gt;Print&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="-r-OsDqMfNIxZq5W5FvP-3">
+          <mxGeometry x="1080" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-r-OsDqMfNIxZq5W5FvP-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" parent="-r-OsDqMfNIxZq5W5FvP-1" vertex="1">
           <mxGeometry y="960" width="1910" height="290" as="geometry" />
