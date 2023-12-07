@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T10:00:33.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="x01uddEiEAv4x_CQSEB7" version="22.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-07T10:01:31.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="GEcGLdvXKjleP3o1ds1d" version="22.1.5" type="github" pages="8">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2728" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -317,10 +317,13 @@
         <mxCell id="XlYt3WKM3zkQKlEQ_KAG-29" value="3.8&lt;br&gt;Auto create .001 solder paste" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-3">
           <mxGeometry x="1440" y="40" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="XlYt3WKM3zkQKlEQ_KAG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XlYt3WKM3zkQKlEQ_KAG-3" source="XlYt3WKM3zkQKlEQ_KAG-33" target="XlYt3WKM3zkQKlEQ_KAG-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XlYt3WKM3zkQKlEQ_KAG-33" value="3.10&lt;br&gt;Solder paste consumed&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-3">
           <mxGeometry x="1640" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XlYt3WKM3zkQKlEQ_KAG-36" value="3.11&lt;br&gt;Detached when production&amp;nbsp;&lt;br&gt;finished or depleted&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-3">
+        <mxCell id="XlYt3WKM3zkQKlEQ_KAG-36" value="3.11&lt;br&gt;&amp;nbsp;Production&amp;nbsp;&lt;br&gt;finished&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-3">
           <mxGeometry x="1840" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XlYt3WKM3zkQKlEQ_KAG-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;OP&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-2">
@@ -342,9 +345,6 @@
           <mxGeometry x="-0.9125" y="1" relative="1" as="geometry">
             <mxPoint x="17" y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XlYt3WKM3zkQKlEQ_KAG-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-4">
-          <mxGeometry x="2080" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlYt3WKM3zkQKlEQ_KAG-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Enginner / GL&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="XlYt3WKM3zkQKlEQ_KAG-2">
           <mxGeometry y="620" width="2400" height="200" as="geometry" />
