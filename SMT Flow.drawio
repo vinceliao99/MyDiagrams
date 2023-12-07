@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T06:39:40.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="i1zYkZ8XiyhnfZt8JiV-" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-07T08:21:16.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Q4nX_ocTSpDHgW_CY2A9" version="22.1.5" type="github" pages="5">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
-    <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1983" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-0" />
         <mxCell id="lsrAI2a4YngaBVKj8FtU-1" parent="lsrAI2a4YngaBVKj8FtU-0" />
@@ -85,12 +85,6 @@
         <mxCell id="lsrAI2a4YngaBVKj8FtU-11" value="4&lt;br&gt;Dispatch Lot to Line&lt;br style=&quot;font-size: 13px;&quot;&gt;(According to PM Scheduling)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="hTAVZJHK6Nea7UwYxCpy-2" vertex="1">
           <mxGeometry x="660.0008396946564" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lsrAI2a4YngaBVKj8FtU-13" value="5&lt;br&gt;Assign Solder&amp;nbsp;&lt;br&gt;Paste" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="hTAVZJHK6Nea7UwYxCpy-2" vertex="1">
-          <mxGeometry x="860.0017557251908" y="40" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="hTAVZJHK6Nea7UwYxCpy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hTAVZJHK6Nea7UwYxCpy-2" source="lsrAI2a4YngaBVKj8FtU-11" target="lsrAI2a4YngaBVKj8FtU-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6zC0Fjox5lhsgYdqSoKZ-0" value="15&lt;br&gt;Track out&lt;br&gt;all panels&lt;br&gt;(Clear Line)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="hTAVZJHK6Nea7UwYxCpy-2">
           <mxGeometry x="2859.9990839694656" y="40" width="120" height="120" as="geometry" />
         </mxCell>
@@ -120,6 +114,12 @@
         <mxCell id="SeX5UwsHkIRVZ4z2yRDU-2" value="6&lt;br&gt;GPS SMT&lt;br&gt;TC Verify" style="rhombus;whiteSpace=wrap;html=1;" parent="hTAVZJHK6Nea7UwYxCpy-5" vertex="1">
           <mxGeometry x="1060" y="40" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="lsrAI2a4YngaBVKj8FtU-13" value="5&lt;br&gt;Assign Solder&amp;nbsp;&lt;br&gt;Paste&lt;br&gt;(GPS PM Waiting&lt;br&gt;schedule line and solder paste)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="hTAVZJHK6Nea7UwYxCpy-5" vertex="1">
+          <mxGeometry x="860.0017557251908" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SeX5UwsHkIRVZ4z2yRDU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hTAVZJHK6Nea7UwYxCpy-5" source="lsrAI2a4YngaBVKj8FtU-13" target="SeX5UwsHkIRVZ4z2yRDU-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SeX5UwsHkIRVZ4z2yRDU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SeX5UwsHkIRVZ4z2yRDU-0" source="SeX5UwsHkIRVZ4z2yRDU-2" target="hTAVZJHK6Nea7UwYxCpy-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -128,7 +128,7 @@
             <mxPoint y="217" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SeX5UwsHkIRVZ4z2yRDU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SeX5UwsHkIRVZ4z2yRDU-0" source="lsrAI2a4YngaBVKj8FtU-13" target="SeX5UwsHkIRVZ4z2yRDU-2" edge="1">
+        <mxCell id="hTAVZJHK6Nea7UwYxCpy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SeX5UwsHkIRVZ4z2yRDU-0" source="lsrAI2a4YngaBVKj8FtU-11" target="lsrAI2a4YngaBVKj8FtU-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeX5UwsHkIRVZ4z2yRDU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="lsrAI2a4YngaBVKj8FtU-1" source="SeX5UwsHkIRVZ4z2yRDU-2" target="JL5M2NKlcuQdTF7bNuk7-0" edge="1">
