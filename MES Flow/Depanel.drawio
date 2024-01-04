@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T09:59:39.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="K8KEGybJe7Fp77sRiZwe" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:59:54.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FbFUKr3Wck-7UzjGV6Mk" version="22.1.16" type="github">
   <diagram name="0. Depanel Flow" id="IR7APXBD-iLVvgRDNtpI">
     <mxGraphModel dx="1979" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="jMCXPNLc2lwOgvackd_w-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;3. Dispatch Lot&lt;br&gt;to Line (Manual)&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
           <mxGeometry x="240" y="60" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jMCXPNLc2lwOgvackd_w-16" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;4.LB-DPN&lt;br&gt;Lot auto &lt;br&gt;track-in / out&lt;br&gt;LB-DPN&lt;br&gt;&amp;nbsp;(IOT Auto)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
+        <mxCell id="jMCXPNLc2lwOgvackd_w-16" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;4.LB-DPN&lt;br&gt;Lot auto &lt;br&gt;track-in / out&lt;br&gt;LB-DPN&lt;br&gt;&amp;nbsp;(IOT Auto read log)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
           <mxGeometry x="440" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jMCXPNLc2lwOgvackd_w-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;5. Lot auto track-out&lt;br&gt;&amp;nbsp;LB-DPN&lt;br&gt;&amp;nbsp;(IOT Auto)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
