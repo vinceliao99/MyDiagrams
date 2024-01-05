@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T06:18:48.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="4-GDVw3JsAb8ZQrO6nis" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T06:31:35.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TvaXuGn5CeEPizOqVou-" version="22.1.16" type="github">
   <diagram name="0. Depanel Flow" id="IR7APXBD-iLVvgRDNtpI">
     <mxGraphModel dx="1979" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="qEmexoCEOH4rBXa_ceRB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jMCXPNLc2lwOgvackd_w-2" source="jMCXPNLc2lwOgvackd_w-21" target="qEmexoCEOH4rBXa_ceRB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jMCXPNLc2lwOgvackd_w-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;8. DP-ROU&lt;br&gt;Auto Track in&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
+        <mxCell id="jMCXPNLc2lwOgvackd_w-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;8. DP-ROU&lt;br&gt;Auto Track in&lt;br&gt;(Auto)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
           <mxGeometry x="1240" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qEmexoCEOH4rBXa_ceRB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jMCXPNLc2lwOgvackd_w-2" source="qEmexoCEOH4rBXa_ceRB-3" target="jMCXPNLc2lwOgvackd_w-21" edge="1">
@@ -43,7 +43,7 @@
         <mxCell id="qEmexoCEOH4rBXa_ceRB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="jMCXPNLc2lwOgvackd_w-2" source="qEmexoCEOH4rBXa_ceRB-6" target="qEmexoCEOH4rBXa_ceRB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qEmexoCEOH4rBXa_ceRB-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;9. DP-BIN&lt;br&gt;Lot auto track out&lt;br&gt;(IOT auto read log)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
+        <mxCell id="qEmexoCEOH4rBXa_ceRB-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;9. DP-ROU&lt;br&gt;Lot auto track out&lt;br&gt;(IOT read log)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
           <mxGeometry x="1440" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qEmexoCEOH4rBXa_ceRB-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;10. DP-BIN&lt;br&gt;Lot auto track in / out&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMCXPNLc2lwOgvackd_w-2" vertex="1">
