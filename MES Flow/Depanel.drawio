@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T07:20:20.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="d0R3zI9byYWUiaJK1lan" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T07:24:17.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="oOByvUCfsCq0h6XIZ3hb" version="22.1.16" type="github" pages="2">
   <diagram name="0. Depanel Flow" id="IR7APXBD-iLVvgRDNtpI">
     <mxGraphModel dx="2827" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9PYq0CWDFt180EOtgMXb" name="Page-2">
+  <diagram id="9PYq0CWDFt180EOtgMXb" name="Depanel Rework Flow">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
