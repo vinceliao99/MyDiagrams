@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T06:21:57.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8TD63cRRnO9MDVM6jLKk" version="22.1.16" type="github">
-  <diagram name="Page-1" id="Mfq-cFtSlNQOb0LYSINd">
+<mxfile host="app.diagrams.net" modified="2024-01-08T06:28:01.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iIqAbeSfsqnDUZdYf57n" version="22.1.16" type="github">
+  <diagram name="SSD Testing 不組殼" id="Mfq-cFtSlNQOb0LYSINd">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GfFlqZ9XHPKxG8nevZgK-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SSD Testing&lt;/span&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SSD Testing 不組殼 Prod_S0k00M01&lt;/span&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="3490" height="820" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-2" value="MES" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-1">
@@ -55,7 +55,7 @@
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;5. Is 上載板&amp;nbsp;&lt;br&gt;Needed?&lt;br&gt;( SSD 不組殼&lt;br&gt;即須上載板 )&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
           <mxGeometry x="860" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GfFlqZ9XHPKxG8nevZgK-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;9. Move next &lt;br&gt;to MST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;9. Move next &lt;br&gt;to MST&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
           <mxGeometry x="1660" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-19" target="GfFlqZ9XHPKxG8nevZgK-24">
@@ -76,6 +76,32 @@
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-25" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;8. Track out&amp;nbsp;&lt;br&gt;LN-BMS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
           <mxGeometry x="1460" y="240" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-33" target="GfFlqZ9XHPKxG8nevZgK-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-43" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GfFlqZ9XHPKxG8nevZgK-38">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;12. Is 下載板&amp;nbsp;&lt;br&gt;Needed?&lt;br&gt;( SSD 不組殼&lt;br&gt;即須下載板 )&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
+          <mxGeometry x="2260" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-37" target="GfFlqZ9XHPKxG8nevZgK-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-37" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;13. Move Next &lt;br&gt;to&amp;nbsp;LN-AMS&lt;br&gt;(Optional Step)&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
+          <mxGeometry x="2460" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-40" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;14. Track in to&amp;nbsp;&lt;br&gt;LN-AMS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
+          <mxGeometry x="2660" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-41" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;15. Track out&amp;nbsp;&lt;br&gt;LN-AMS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
+          <mxGeometry x="2860" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-40" target="GfFlqZ9XHPKxG8nevZgK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-3" value="GPS" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-1">
           <mxGeometry y="420" width="3490" height="200" as="geometry" />
         </mxCell>
@@ -85,19 +111,16 @@
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;10. GPS MST&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-3">
           <mxGeometry x="1860" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GfFlqZ9XHPKxG8nevZgK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-3" source="GfFlqZ9XHPKxG8nevZgK-31" target="GfFlqZ9XHPKxG8nevZgK-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;11. GPS MST&lt;br&gt;Call MES API &lt;br&gt;to dispatch \&lt;br&gt;Track in &amp;amp; out&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-3">
           <mxGeometry x="2060" y="40" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="GfFlqZ9XHPKxG8nevZgK-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;12. Is 下載板&amp;nbsp;&lt;br&gt;Needed?&lt;br&gt;( SSD 不組殼&lt;br&gt;即須下載板 )&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-3">
-          <mxGeometry x="2260" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-4" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-1">
           <mxGeometry y="620" width="3490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-1" source="GfFlqZ9XHPKxG8nevZgK-17" target="GfFlqZ9XHPKxG8nevZgK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-1" source="GfFlqZ9XHPKxG8nevZgK-31" target="GfFlqZ9XHPKxG8nevZgK-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfFlqZ9XHPKxG8nevZgK-5" target="GfFlqZ9XHPKxG8nevZgK-6">
