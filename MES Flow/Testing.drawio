@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:28:55.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8CjW-AMQxjT0UFeKhTeh" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:31:11.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3og4LD4wEv4Nq_i50qOj" version="22.1.16" type="github" pages="2">
   <diagram name="Testing 組殼 Prod SCK00M01" id="VtEyXnvxtjtlxtF73gRq">
-    <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-0" />
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-1" parent="ZjPLEvT_vaRUvgcbaxpD-0" />
@@ -84,8 +84,14 @@
         <mxCell id="FKZvdiM3d8KpAC-lXiIu-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;14. &lt;br&gt;Dispatch &lt;br&gt;&amp;amp; Track in&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;AS-CAS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
           <mxGeometry x="1860" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zAakZylzKmNzfOh6aZrc-0" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;15. &lt;br&gt;Track out&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;AS-CAS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
+        <mxCell id="zAakZylzKmNzfOh6aZrc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZjPLEvT_vaRUvgcbaxpD-3" source="zAakZylzKmNzfOh6aZrc-0" target="zAakZylzKmNzfOh6aZrc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zAakZylzKmNzfOh6aZrc-0" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;15. &lt;br&gt;Track out &lt;br&gt;&amp;amp; Move Next&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp;AS-CAS&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
           <mxGeometry x="2060" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zAakZylzKmNzfOh6aZrc-3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;16. &lt;br&gt;Move next&amp;nbsp;&lt;br&gt;&amp;nbsp;to FT-QCT&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
+          <mxGeometry x="2260" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-48" value="GPS" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-2">
           <mxGeometry y="420" width="4430" height="200" as="geometry" />
