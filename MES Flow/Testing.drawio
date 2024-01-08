@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T03:45:40.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="np2rHM5WYZli3ScfRIRZ" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T03:45:57.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="aKnNdbjTlW2N2jRbhPGn" version="22.1.16" type="github">
   <diagram name="Page-1" id="Mfq-cFtSlNQOb0LYSINd">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-2" value="MES" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-1">
           <mxGeometry y="20" width="1830" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-6" target="GfFlqZ9XHPKxG8nevZgK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1. Store lot &lt;br&gt;to storage&lt;br&gt;(OP Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
           <mxGeometry x="60" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GfFlqZ9XHPKxG8nevZgK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GfFlqZ9XHPKxG8nevZgK-2" source="GfFlqZ9XHPKxG8nevZgK-8" target="GfFlqZ9XHPKxG8nevZgK-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GfFlqZ9XHPKxG8nevZgK-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2. Perform Setup&lt;br&gt;&amp;amp; Check Recipe&lt;br&gt;(OP Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GfFlqZ9XHPKxG8nevZgK-2">
           <mxGeometry x="260" y="40" width="120" height="120" as="geometry" />
