@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:10:39.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TaVWBl16yJ-wqs2a35B3" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:10:55.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JfNypeEfuO3W3zHmk2JM" version="22.1.16" type="github" pages="2">
   <diagram name="Testing 組殼 Prod SCK00M01" id="VtEyXnvxtjtlxtF73gRq">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZjPLEvT_vaRUvgcbaxpD-3" source="ZjPLEvT_vaRUvgcbaxpD-5" target="ZjPLEvT_vaRUvgcbaxpD-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZjPLEvT_vaRUvgcbaxpD-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1.&lt;br&gt;Store lot &lt;br&gt;to storage&lt;br&gt;(OP Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
+        <mxCell id="ZjPLEvT_vaRUvgcbaxpD-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1.&lt;br&gt;Store lot &lt;br&gt;to storage&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
           <mxGeometry x="60" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZjPLEvT_vaRUvgcbaxpD-3" source="ZjPLEvT_vaRUvgcbaxpD-7" target="ZjPLEvT_vaRUvgcbaxpD-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZjPLEvT_vaRUvgcbaxpD-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2. &lt;br&gt;Perform Setup&lt;br&gt;&amp;amp; Check Recipe&lt;br&gt;(OP Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
+        <mxCell id="ZjPLEvT_vaRUvgcbaxpD-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2. &lt;br&gt;Perform Setup&lt;br&gt;&amp;amp; Check Recipe&lt;br&gt;(Manual)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZjPLEvT_vaRUvgcbaxpD-3">
           <mxGeometry x="260" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZjPLEvT_vaRUvgcbaxpD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZjPLEvT_vaRUvgcbaxpD-3" source="ZjPLEvT_vaRUvgcbaxpD-9" target="ZjPLEvT_vaRUvgcbaxpD-11">
