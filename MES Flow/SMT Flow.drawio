@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:09:24.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="G64nldssmjsVzreScsjH" version="22.1.17" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:12:10.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yHv00MACAE47MVn0r4Ok" version="22.1.17" type="github" pages="10">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-18" value="12&lt;br&gt;P&amp;amp;P&lt;br&gt;SM-PNPB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="hTAVZJHK6Nea7UwYxCpy-1" vertex="1">
           <mxGeometry x="2259.997251908397" y="40" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="hTAVZJHK6Nea7UwYxCpy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hTAVZJHK6Nea7UwYxCpy-1" source="hTAVZJHK6Nea7UwYxCpy-16" target="lsrAI2a4YngaBVKj8FtU-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hTAVZJHK6Nea7UwYxCpy-16" value="7&lt;br&gt;Auto Attach Stencil &amp;amp; Support Fixture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="hTAVZJHK6Nea7UwYxCpy-1" vertex="1">
           <mxGeometry x="1260.002671755725" y="40" width="120" height="120" as="geometry" />
