@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T08:50:38.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="-fmYYR47oB3s6Pv99iGN" version="22.1.17" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-09T08:51:21.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KxgvKDXKUUKLCNPh9aMu" version="22.1.17" type="github" pages="10">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
         <mxCell id="DdEMvUbgFAGjMsZrBji2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="DdEMvUbgFAGjMsZrBji2-78" source="DdEMvUbgFAGjMsZrBji2-81" target="DdEMvUbgFAGjMsZrBji2-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DdEMvUbgFAGjMsZrBji2-81" value="15.10a&lt;br style=&quot;font-size: 13px;&quot;&gt;Click [Magazine&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;Transition] on&lt;br style=&quot;font-size: 13px;&quot;&gt;Resource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="DdEMvUbgFAGjMsZrBji2-78" vertex="1">
+        <mxCell id="DdEMvUbgFAGjMsZrBji2-81" value="15.10a&lt;br style=&quot;font-size: 13px;&quot;&gt;Click [Undock Magazine] on&lt;br style=&quot;font-size: 13px;&quot;&gt;Resource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="DdEMvUbgFAGjMsZrBji2-78" vertex="1">
           <mxGeometry x="40" y="70" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DdEMvUbgFAGjMsZrBji2-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="DdEMvUbgFAGjMsZrBji2-78" source="DdEMvUbgFAGjMsZrBji2-86" target="DdEMvUbgFAGjMsZrBji2-88" edge="1">
