@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:20:56.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3EsC-B2XriMImeqHVEYV" version="22.1.17" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:21:06.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hAT9qu58S9bnbc4aHXm-" version="22.1.17" type="github" pages="10">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
     <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="JL5M2NKlcuQdTF7bNuk7-0" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
           <mxGeometry x="2820" y="1000" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gDUpVS5IpSoHxMBYjF2x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="lsrAI2a4YngaBVKj8FtU-1" source="lsrAI2a4YngaBVKj8FtU-9" target="lsrAI2a4YngaBVKj8FtU-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SeX5UwsHkIRVZ4z2yRDU-0" value="" style="group" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1" connectable="0">
           <mxGeometry x="-20" y="140" width="4979.999083969466" height="820" as="geometry" />
@@ -225,6 +222,9 @@
         </mxCell>
         <mxCell id="sOH0FLFzMb9chQyextEf-0" value="F3&lt;br&gt;Stencil Maintenance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
           <mxGeometry y="1600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gDUpVS5IpSoHxMBYjF2x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="lsrAI2a4YngaBVKj8FtU-1" source="lsrAI2a4YngaBVKj8FtU-9" target="lsrAI2a4YngaBVKj8FtU-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
