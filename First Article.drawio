@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T03:06:20.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="UnVgrlgFc-OLThVREQns" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T03:08:59.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="N-TPI_vACkaVmrM5ZVH9" version="22.1.18" type="github">
   <diagram name="Page-1" id="ENbU-KCcfbX1HI0WQG8M">
     <mxGraphModel dx="2019" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="15Um-tMKAFCWQq1WCllw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="15Um-tMKAFCWQq1WCllw-3" source="15Um-tMKAFCWQq1WCllw-24" target="15Um-tMKAFCWQq1WCllw-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="15Um-tMKAFCWQq1WCllw-24" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Pharse log&lt;/span&gt;&amp;nbsp;in &lt;br&gt;&quot;Mass Production&quot; folder" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
+        <mxCell id="15Um-tMKAFCWQq1WCllw-24" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Continue to &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;parse log&lt;/span&gt;&amp;nbsp;in &lt;br&gt;&quot;Mass Production&quot; folder" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
           <mxGeometry x="2263" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15Um-tMKAFCWQq1WCllw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="15Um-tMKAFCWQq1WCllw-3" source="15Um-tMKAFCWQq1WCllw-32" target="15Um-tMKAFCWQq1WCllw-35" edge="1">
@@ -65,7 +65,7 @@
         <mxCell id="15Um-tMKAFCWQq1WCllw-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Move that log&amp;nbsp;&lt;br&gt;to &quot;FAI&quot; folder&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
           <mxGeometry x="2663" y="40" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="15Um-tMKAFCWQq1WCllw-29" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Phase log in&lt;br&gt;&quot;FAI&quot; folder&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
+        <mxCell id="15Um-tMKAFCWQq1WCllw-29" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Parse log in&lt;br&gt;&quot;FAI&quot; folder&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
           <mxGeometry x="1863" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15Um-tMKAFCWQq1WCllw-41" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Find the last record&amp;nbsp;&lt;br&gt;of each FAI panel&lt;br&gt;to Track in/out&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-3" vertex="1">
