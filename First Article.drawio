@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T02:58:05.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qZ9-JDwStXkgUZEOnout" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T02:59:26.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nNPW3IKKy02e31Bv56gH" version="22.1.18" type="github">
   <diagram name="Page-1" id="ENbU-KCcfbX1HI0WQG8M">
     <mxGraphModel dx="2019" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="15Um-tMKAFCWQq1WCllw-27" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Click TC &lt;br&gt;&quot;End FAI&quot;&lt;br&gt;When FAI is finished&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="15Um-tMKAFCWQq1WCllw-4" vertex="1">
           <mxGeometry x="1458" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bqO4CSPkraQ41x95xphA-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FAI Panels IDs&lt;br&gt;at available to &lt;br&gt;scan on TC&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="15Um-tMKAFCWQq1WCllw-4">
+        <mxCell id="bqO4CSPkraQ41x95xphA-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;FAI Panels IDs&lt;br&gt;are open to&lt;br&gt;scan on TC&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="15Um-tMKAFCWQq1WCllw-4">
           <mxGeometry x="860" y="40" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="15Um-tMKAFCWQq1WCllw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="15Um-tMKAFCWQq1WCllw-1" source="15Um-tMKAFCWQq1WCllw-7" target="15Um-tMKAFCWQq1WCllw-11" edge="1">
