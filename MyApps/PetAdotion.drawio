@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T09:02:42.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="azYXjxYUF_apx8EnnIZ8" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-21T09:04:00.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jRP2gYddKIRn9RClB1_N" version="22.1.21" type="github" pages="3">
   <diagram id="QnVTmWq5xUba2y7RDh1D" name="領養人主頁">
     <mxGraphModel dx="2630" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="7DB1A7jkmzlkoMAmGdgW-4" value="✘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="SYw_4eyTuCKwPa1BkC2D-1">
           <mxGeometry x="112" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKxEUWPDw9tN8h3svbhY-1" value="若通過則會顯示領養人Line ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZKxEUWPDw9tN8h3svbhY-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;若通過則會顯示領養人Line ID，已進一步聯繫。未來再加入App內即時聊天功能&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-880" y="430" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZKxEUWPDw9tN8h3svbhY-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
