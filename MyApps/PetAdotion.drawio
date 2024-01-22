@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T08:56:29.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WEkSgSmLnAH5_2_sGhYi" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-22T08:58:33.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="U0VjsB8qV3lI36QMKsnj" version="22.1.21" type="github" pages="3">
   <diagram id="QnVTmWq5xUba2y7RDh1D" name="領養人主頁">
     <mxGraphModel dx="2836" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,93 +68,81 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-6-2UjnE3QMGL42lK4hG-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="accKyd6x7aefpEtvY4uS-2">
+        <mxCell id="bYsxJTP5dl0X4K44cg79-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-640" y="722" width="390" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-6-2UjnE3QMGL42lK4hG-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="bYsxJTP5dl0X4K44cg79-1" source="accKyd6x7aefpEtvY4uS-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-580" y="720" as="sourcePoint" />
-            <mxPoint x="-250" y="722" as="targetPoint" />
+            <mxPoint x="60" y="-2" as="sourcePoint" />
+            <mxPoint x="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-6-2UjnE3QMGL42lK4hG-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;領養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="736" width="60" height="30" as="geometry" />
+        <mxCell id="-6-2UjnE3QMGL42lK4hG-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;領養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bYsxJTP5dl0X4K44cg79-1">
+          <mxGeometry y="14" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-6-2UjnE3QMGL42lK4hG-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;送養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="735" width="60" height="30" as="geometry" />
+        <mxCell id="-6-2UjnE3QMGL42lK4hG-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;送養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bYsxJTP5dl0X4K44cg79-1">
+          <mxGeometry x="145" y="13" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-6-2UjnE3QMGL42lK4hG-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;設定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="735" width="60" height="30" as="geometry" />
+        <mxCell id="-6-2UjnE3QMGL42lK4hG-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;設定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bYsxJTP5dl0X4K44cg79-1">
+          <mxGeometry x="300" y="13" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="送養人審核" id="7P2gLJj2t6BRb5E0uDaG">
-    <mxGraphModel dx="2188" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2836" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-160" width="430" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-2" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;環境照片&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-654" y="590" width="382" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-654" y="532" width="160" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-3">
-          <mxGeometry y="8" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;領養人ID&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-3">
-          <mxGeometry x="32" width="69" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-6" value="01/22/2024 10:00 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-3">
-          <mxGeometry x="31" y="18" width="129" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-7" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;審核領養申請&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-7" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;審核領養申請&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-660" y="-110" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-8" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-680" y="-60" width="540" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1">
           <mxGeometry width="430" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-10" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;環境照片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-10" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;環境照片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1">
           <mxGeometry x="26" y="80" width="382" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-11" value="" style="group" vertex="1" connectable="0" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-11" value="" style="group" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1" connectable="0">
           <mxGeometry x="26" y="22" width="160" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-11">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="9aaybHOdjcJgh0bPPcPW-11" vertex="1">
           <mxGeometry y="8" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;領養人ID&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-11">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;領養人ID&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9aaybHOdjcJgh0bPPcPW-11" vertex="1">
           <mxGeometry x="32" width="69" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-14" value="01/22/2024 10:00 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-11">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-14" value="01/22/2024 10:00 AM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9aaybHOdjcJgh0bPPcPW-11" vertex="1">
           <mxGeometry x="31" y="18" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;姓名: 王小明&lt;br&gt;地區: 台灣 台北&lt;br&gt;是否成年: 是&amp;nbsp;&lt;br&gt;是否有養貓經驗: 是 5年&lt;br&gt;是否可家訪: 是&lt;br&gt;是否願意簽領養同意書: 是&lt;br&gt;自我介紹:&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;我是一個負責任的人，有經驗照顧貓咪。我住在新竹市，有一個舒適的家，適合貓咪生活。我會定期帶貓咪去看獸醫，並確保牠們有好的環境。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;姓名: 王小明&lt;br&gt;地區: 台灣 台北&lt;br&gt;是否成年: 是&amp;nbsp;&lt;br&gt;是否有養貓經驗: 是 5年&lt;br&gt;是否可家訪: 是&lt;br&gt;是否願意簽領養同意書: 是&lt;br&gt;自我介紹:&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;我是一個負責任的人，有經驗照顧貓咪。我住在新竹市，有一個舒適的家，適合貓咪生活。我會定期帶貓咪去看獸醫，並確保牠們有好的環境。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1">
           <mxGeometry x="26" y="314" width="384" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/developer-set-3/128/other-128.png;fontColor=#000000;" vertex="1" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/developer-set-3/128/other-128.png;fontColor=#000000;" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1">
           <mxGeometry x="177" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SYw_4eyTuCKwPa1BkC2D-1" value="" style="group" vertex="1" connectable="0" parent="9aaybHOdjcJgh0bPPcPW-8">
+        <mxCell id="SYw_4eyTuCKwPa1BkC2D-1" value="" style="group" parent="9aaybHOdjcJgh0bPPcPW-8" vertex="1" connectable="0">
           <mxGeometry x="76" y="481" width="294" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-19" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="SYw_4eyTuCKwPa1BkC2D-1">
+        <mxCell id="9aaybHOdjcJgh0bPPcPW-19" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="SYw_4eyTuCKwPa1BkC2D-1" vertex="1">
           <mxGeometry x="234" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7DB1A7jkmzlkoMAmGdgW-3" value="✓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="SYw_4eyTuCKwPa1BkC2D-1">
+        <mxCell id="7DB1A7jkmzlkoMAmGdgW-3" value="✓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="SYw_4eyTuCKwPa1BkC2D-1" vertex="1">
           <mxGeometry y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7DB1A7jkmzlkoMAmGdgW-4" value="✘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="SYw_4eyTuCKwPa1BkC2D-1">
+        <mxCell id="7DB1A7jkmzlkoMAmGdgW-4" value="✘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="SYw_4eyTuCKwPa1BkC2D-1" vertex="1">
           <mxGeometry x="112" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKxEUWPDw9tN8h3svbhY-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;若通過則會顯示領養人Line ID，以進一步聯繫。未來再加入App內即時聊天功能&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZKxEUWPDw9tN8h3svbhY-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;若通過則會顯示領養人Line ID，以進一步聯繫。未來再加入App內即時聊天功能&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-880" y="430" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZKxEUWPDw9tN8h3svbhY-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZKxEUWPDw9tN8h3svbhY-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-770" y="450" as="sourcePoint" />
             <mxPoint x="-600" y="449" as="targetPoint" />
@@ -162,6 +150,24 @@
               <mxPoint x="-720" y="450" />
               <mxPoint x="-770" y="400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9Y131aN0tvUa9RJACK--1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-640" y="722" width="390" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Y131aN0tvUa9RJACK--3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;領養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y9Y131aN0tvUa9RJACK--1">
+          <mxGeometry y="14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Y131aN0tvUa9RJACK--4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;送養&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y9Y131aN0tvUa9RJACK--1">
+          <mxGeometry x="145" y="13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9Y131aN0tvUa9RJACK--5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;設定&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y9Y131aN0tvUa9RJACK--1">
+          <mxGeometry x="300" y="13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e7jVj5zhgKwV5gRNXkHn-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-679" y="722" as="sourcePoint" />
+            <mxPoint x="-250" y="722" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
