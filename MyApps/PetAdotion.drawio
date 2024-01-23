@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T05:32:38.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iow-qSJc6ZHBv1ndicuS" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-23T05:36:23.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2i4dVioRhnDIKfrVUQ_R" version="22.1.18" type="github" pages="3">
   <diagram id="QnVTmWq5xUba2y7RDh1D" name="領養人主頁">
     <mxGraphModel dx="3179" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,15 +93,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="我的頁面" id="7P2gLJj2t6BRb5E0uDaG">
-    <mxGraphModel dx="2565" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="63RrUHnXfgtZwsf_bULI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6b6b6b;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="-110" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63RrUHnXfgtZwsf_bULI-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4f4f4f;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="-110" width="100" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="9aaybHOdjcJgh0bPPcPW-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-160" width="430" height="940" as="geometry" />
-        </mxCell>
-        <mxCell id="9aaybHOdjcJgh0bPPcPW-7" value="&lt;h1 style=&quot;font-size: 25px;&quot;&gt;審核領養申請&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-660" y="-110" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9aaybHOdjcJgh0bPPcPW-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-680" y="-60" width="540" height="610" as="geometry" />
@@ -169,6 +172,15 @@
         </mxCell>
         <mxCell id="63RrUHnXfgtZwsf_bULI-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBjbGFzcz0iaW9uaWNvbiI+JiN4YTs8cGF0aCBkPSJNMjU4LjkgNDhDMTQxLjkyIDQ2LjQyIDQ2LjQyIDE0MS45MiA0OCAyNTguOWMxLjU2IDExMi4xOSA5Mi45MSAyMDMuNTQgMjA1LjEgMjA1LjEgMTE3IDEuNiAyMTIuNDgtOTMuOSAyMTAuODgtMjEwLjg4QzQ2Mi40NCAxNDAuOTEgMzcxLjA5IDQ5LjU2IDI1OC45IDQ4em0xMjYuNDIgMzI3LjI1YTQgNCAwIDAxLTYuMTQtLjMyIDEyNC4yNyAxMjQuMjcgMCAwMC0zMi4zNS0yOS41OUMzMjEuMzcgMzI5IDI4OS4xMSAzMjAgMjU2IDMyMHMtNjUuMzcgOS05MC44MyAyNS4zNGExMjQuMjQgMTI0LjI0IDAgMDAtMzIuMzUgMjkuNTggNCA0IDAgMDEtNi4xNC4zMkExNzUuMzIgMTc1LjMyIDAgMDE4MCAyNTljLTEuNjMtOTcuMzEgNzguMjItMTc4Ljc2IDE3NS41Ny0xNzlTNDMyIDE1OC44MSA0MzIgMjU2YTE3NS4zMiAxNzUuMzIgMCAwMS00Ni42OCAxMTkuMjV6IiBmaWxsPSIjZmZmZmZmIi8+PHBhdGggZD0iTTI1NiAxNDRjLTE5LjcyIDAtMzcuNTUgNy4zOS01MC4yMiAyMC44MnMtMTkgMzItMTcuNTcgNTEuOTNDMTkxLjExIDI1NiAyMjEuNTIgMjg4IDI1NiAyODhzNjQuODMtMzIgNjcuNzktNzEuMjRjMS40OC0xOS43NC00LjgtMzguMTQtMTcuNjgtNTEuODJDMjkzLjM5IDE1MS40NCAyNzUuNTkgMTQ0IDI1NiAxNDR6IiBmaWxsPSIjZmZmZmZmIi8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="-487" y="737" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="63RrUHnXfgtZwsf_bULI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-574" y="-110" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63RrUHnXfgtZwsf_bULI-4" value="領養" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-547" y="-110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63RrUHnXfgtZwsf_bULI-5" value="送養" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
