@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T05:42:18.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3Xh7vicE1x7GhCjHWsNi" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-23T05:42:52.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sIjjGbuAjUxyEgIBgWzH" version="22.1.18" type="github" pages="4">
   <diagram id="QnVTmWq5xUba2y7RDh1D" name="領養人主頁">
     <mxGraphModel dx="3179" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="我的頁面/領養" id="9EhddUOjo2Xddi2VDDL-">
-    <mxGraphModel dx="3179" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Dnt008Goxbu44_yqDNRh-0" />
         <mxCell id="Dnt008Goxbu44_yqDNRh-1" parent="Dnt008Goxbu44_yqDNRh-0" />
@@ -271,9 +271,6 @@
         </mxCell>
         <mxCell id="Dnt008Goxbu44_yqDNRh-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#525252;" vertex="1" parent="Dnt008Goxbu44_yqDNRh-1">
           <mxGeometry x="-574" y="-110" width="104" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3prPLyW3ajagDce2VGpC-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Dnt008Goxbu44_yqDNRh-1" source="Dnt008Goxbu44_yqDNRh-25" target="Dnt008Goxbu44_yqDNRh-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dnt008Goxbu44_yqDNRh-25" value="領養" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dnt008Goxbu44_yqDNRh-1">
           <mxGeometry x="-547" y="-109" width="60" height="30" as="geometry" />
