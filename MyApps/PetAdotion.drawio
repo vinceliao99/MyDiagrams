@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:13:04.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SJzJhVUef5zjGXaWzwar" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-24T02:15:47.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EPDOpE7PaCmQEbLujXHH" version="22.1.18" type="github" pages="7">
   <diagram name="領養流程" id="8D6AVEjFKqUemFlpzP1I">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,6 +235,12 @@
         </mxCell>
         <mxCell id="ERBdOiGu5DA9Hd8cmRfu-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#ffffff;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="-300" y="-100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ERBdOiGu5DA9Hd8cmRfu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-60" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ERBdOiGu5DA9Hd8cmRfu-5" value="我的申請領養&lt;br&gt;&lt;br&gt;我的送養&lt;br&gt;&lt;br&gt;我的關注&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
