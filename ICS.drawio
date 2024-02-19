@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T01:09:52.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="22.1.21" etag="GAjJVvIb7JhwlDtUvkDB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T01:16:18.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="MZ5PlcfdsvWL6R0orf4L" version="22.1.21" type="github">
   <diagram name="Page-1" id="x_v1J6QMZ-EttGsRpot7">
-    <mxGraphModel>
+    <mxGraphModel dx="983" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yOd0S4cHkztZd6WocYBm-1" value="ICS Product Transfer" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="1440" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="yOd0S4cHkztZd6WocYBm-2" value="Applicant" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="yOd0S4cHkztZd6WocYBm-1">
+          <mxGeometry y="20" width="1440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="yOd0S4cHkztZd6WocYBm-3" value="Dept. Manager" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="yOd0S4cHkztZd6WocYBm-1">
+          <mxGeometry y="300" width="1440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yOd0S4cHkztZd6WocYBm-4" value="Reviewer" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="yOd0S4cHkztZd6WocYBm-1">
+          <mxGeometry y="500" width="1440" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yOd0S4cHkztZd6WocYBm-5" value="QA" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="yOd0S4cHkztZd6WocYBm-1">
+          <mxGeometry y="790" width="1440" height="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
