@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T07:08:25.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="pB7124Avkw051TqvfXC0" version="22.1.21" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-02-26T03:29:34.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="oIQSw5j9wE7h_fiWo7kc" version="23.1.5" type="github" pages="11">
   <diagram name="0. SMT Flow" id="4LoAcsa9wCyBJGU6yPAQ">
-    <mxGraphModel dx="2426" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2379" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="lsrAI2a4YngaBVKj8FtU-0" />
         <mxCell id="lsrAI2a4YngaBVKj8FtU-1" parent="lsrAI2a4YngaBVKj8FtU-0" />
@@ -200,7 +200,7 @@
         <mxCell id="o9Yr1mwvIBM5GpTEWY8f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hTAVZJHK6Nea7UwYxCpy-0" source="MMl3dLHaQo-jkEaOi9ud-0" target="o9Yr1mwvIBM5GpTEWY8f-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AIh7oRIPlQxRd2BeH3wt-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hTAVZJHK6Nea7UwYxCpy-0" source="Rr9Ftsg8yoE3xLa822xA-0" target="lsrAI2a4YngaBVKj8FtU-14">
+        <mxCell id="AIh7oRIPlQxRd2BeH3wt-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hTAVZJHK6Nea7UwYxCpy-0" source="Rr9Ftsg8yoE3xLa822xA-0" target="lsrAI2a4YngaBVKj8FtU-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Yr1mwvIBM5GpTEWY8f-26" value="Depanel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="SeX5UwsHkIRVZ4z2yRDU-0" vertex="1">
@@ -218,22 +218,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eCRhNayWO-DFXbIKo3Ih-0" value="F1&lt;br&gt;Solder Paste&lt;br&gt;Management" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
-          <mxGeometry y="1360" width="160" height="80" as="geometry" />
+          <mxGeometry x="-20" y="1460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eCRhNayWO-DFXbIKo3Ih-1" value="F2&lt;br&gt;Stencil Mangement&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
-          <mxGeometry y="1480" width="160" height="80" as="geometry" />
+          <mxGeometry x="-20" y="1580" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eCRhNayWO-DFXbIKo3Ih-2" value="F4&lt;br&gt;SMT Change Shift" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
-          <mxGeometry x="240" y="1360" width="160" height="80" as="geometry" />
+          <mxGeometry x="220" y="1460" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sOH0FLFzMb9chQyextEf-0" value="F3&lt;br&gt;Stencil Maintenance" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
-          <mxGeometry y="1600" width="160" height="80" as="geometry" />
+          <mxGeometry x="-20" y="1700" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gDUpVS5IpSoHxMBYjF2x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="lsrAI2a4YngaBVKj8FtU-1" source="lsrAI2a4YngaBVKj8FtU-9" target="lsrAI2a4YngaBVKj8FtU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lTfSQpv_XVeoS1mQKjoG-0" value="F5&lt;br&gt;SMT Rework" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="lsrAI2a4YngaBVKj8FtU-1" vertex="1">
-          <mxGeometry x="240" y="1480" width="160" height="80" as="geometry" />
+          <mxGeometry x="220" y="1580" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
